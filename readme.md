@@ -43,3 +43,22 @@ Responsável: Clederson Ferreira Silva
 
 - Curso de trabalho em altura - NR35 - 2017
   Instituição: Instituto Adamantina
+
+## Conhecimentos
+
+- HTML
+- CSS
+- Node.JS
+- JavaScript
+- TypeScript
+- Java
+- Angular2+
+- Angular Material
+- Python
+- GIT
+- SQL
+- Firebase
+
+## Participação em eventos
+
+- Participante na Hackathon AgroTech 2019
