@@ -19,7 +19,7 @@ Bacharel em Sistemas de Informação pela Universidade Paranaense - Período: 20
 - Bootcamp Fullstack Santander: Bootcamp voltado para o desenvolvimento full stack de aplicação web com Java + Angular (Em Andamento)
 - Semana Dev Santander x DIO: Imersão no desenvolvimento de back-end Java SpringBoot e front-end com Angular + TypeScript. (Concluído)
 
-## Redes sociais e informações adicionais
+## Redes sociais
 
 - Instagram: https://www.instagram.com/halef_dorigan/
 - LinkedIn: https://www.linkedin.com/in/halefdorigan/
@@ -67,6 +67,7 @@ Responsável: Clederson Ferreira Silva
 - JavaScript
 - TypeScript
 - Java
+- C++
 - Angular2+
 - Angular Material
 - Python
@@ -75,6 +76,7 @@ Responsável: Clederson Ferreira Silva
 - Firebase
 - Heroku
 - Windows Server
+- Arduíno
 
 ## Soft Skills
 
@@ -87,3 +89,9 @@ Responsável: Clederson Ferreira Silva
 ## Participação em eventos
 
 - Participante na Hackathon AgroTech 2019
+
+## Informações adicionais
+
+Curiosidade em tudo que possa ser aberto, explorado e melhorado. Apetite por conhecer novas tecnologias que venham a ser úteis e facilitadoras na execução de taredas cotidianas, assim como no desenvolvimento de novas rotinas computacionais que agreguem valor ao escopo ao qual está sendo entregue.
+
+Busco projetos que possam me conectar com novas pessoas e conhecimentos, permitindo ampliar a conexão com novas áreas de conhecimento na área de T.I.
