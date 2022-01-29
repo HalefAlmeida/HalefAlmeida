@@ -28,10 +28,9 @@ Bacharel em Sistemas de Informação pela Universidade Paranaense - Período: 20
 
 ### União Oeste Paranaense de Estudos e Combate ao Câncer - Período: 25/04/2017 - Atual
 
-Atividade: Suporte e atendimento ao usuário, controle de prazos de execução de ordens de serviço, treinamentos ao usuários quanto às funcionalidades e processos em produção, implantações de funções do sistema Tasy de acordo com os objetivos da instituição,
-gestão de domínio (AD-DS) e infraestrutura da unidade de Umuarama (Internet, switches, CFTV, telefonia), mapeamento e documentação de processos internos.
+Atividade: Suporte e atendimento ao usuário, gestão de equipe, treinamentos ao usuários quanto às funcionalidades e processos em produção, implantações de funções do sistema Tasy de acordo com os objetivos da instituição, gestão de domínio (AD-DS) e infraestrutura da unidade de Umuarama (Internet, switches, CFTV, telefonia), mapeamento e documentação de processos internos, coordenador de dimensão para acreditação hospitalar.
 
-Cargo: Analista de Suporte Pleno
+Cargo: Supervisor de T.I.
 
 Responsável: Clederson Ferreira Silva
 
@@ -82,7 +81,6 @@ Responsável: Clederson Ferreira Silva
 
 - Coragem
 - Determinação
-- Protagonismo
 - Curiosidade
 - Interesse em aprender
 
