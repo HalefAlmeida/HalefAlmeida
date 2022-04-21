@@ -14,10 +14,12 @@ Bacharel em Sistemas de Informação pela Universidade Paranaense - Período: 20
 
 ## Projetos pessoais
 
-- Marcaí: Sistema online para controle de passivos de empresas do ramo alimentício (Em andamento)
-- SaveMyTime: Ferramenta com o propósito de facilitar a gestão das atividades diárias do usuário. (Em andamento)
-- Bootcamp Fullstack Santander: Bootcamp voltado para o desenvolvimento full stack de aplicação web com Java + Angular (Em Andamento)
-- Semana Dev Santander x DIO: Imersão no desenvolvimento de back-end Java SpringBoot e front-end com Angular + TypeScript. (Concluído)
+- Marcaí: Sistema online para controle de passivos de empresas do ramo alimentício (Finalizado)
+- SaveMyTime: Ferramenta com o propósito de facilitar a gestão das atividades diárias do usuário. (Finalizado)
+- Bootcamp Fullstack Santander: Bootcamp voltado para o desenvolvimento full stack de aplicação web com Java + Angular (Finalizado)
+- Semana Dev Santander x DIO: Imersão no desenvolvimento de back-end Java SpringBoot e front-end com Angular + TypeScript. (Finalizado)
+- Semana Dev Philips x DIO: Imersão no desenvolvimento de back-end Java SpringBoot e front-end com Angular + TypeScript. (Finalizado)
+- Bootcamp Fullstack Philips: Bootcamp para aprendizagem de conceitos fullstack em aplicações web utilizando Java + Angular. (Em progresso)
 
 ## Redes sociais
 
@@ -76,13 +78,14 @@ Responsável: Clederson Ferreira Silva
 - Heroku
 - Windows Server
 - Arduíno
+- Oracle
+- Oracle PL/SQL
 
 ## Soft Skills
 
-- Coragem
 - Determinação
 - Curiosidade
-- Interesse em aprender
+- Aprendizado Rápido
 
 ## Participação em eventos
 
