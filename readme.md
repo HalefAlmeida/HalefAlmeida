@@ -16,10 +16,9 @@ Bacharel em Sistemas de Informação pela Universidade Paranaense - Período: 20
 
 - Marcaí: Sistema online para controle de passivos de empresas do ramo alimentício (Finalizado)
 - SaveMyTime: Ferramenta com o propósito de facilitar a gestão das atividades diárias do usuário. (Finalizado)
-- Bootcamp Fullstack Santander: Bootcamp voltado para o desenvolvimento full stack de aplicação web com Java + Angular (Finalizado)
 - Semana Dev Santander x DIO: Imersão no desenvolvimento de back-end Java SpringBoot e front-end com Angular + TypeScript. (Finalizado)
 - Semana Dev Philips x DIO: Imersão no desenvolvimento de back-end Java SpringBoot e front-end com Angular + TypeScript. (Finalizado)
-- Bootcamp Fullstack Philips: Bootcamp para aprendizagem de conceitos fullstack em aplicações web utilizando Java + Angular. (Em progresso)
+- Bootcamp Fullstack Philips: Bootcamp para aprendizagem de conceitos fullstack em aplicações web utilizando Java + Angular. (Finalizado)
 
 ## Redes sociais
 
@@ -41,9 +40,6 @@ Responsável: Clederson Ferreira Silva
 - Curso de Angular 2+ - 2020 - Concluído
   Instituição: loiane.training
 
-- Bootcamp Dev Fullstack Santander - 2021 - Em progresso
-  Instituição: DIO - Digital Inovation One
-
 - Auditor interno ISO - 2019 - Concluído
   Instituição: A&F Consultores Associados
 
@@ -58,6 +54,9 @@ Responsável: Clederson Ferreira Silva
 
 - Curso de trabalho em altura - NR35 - 2017 - Concluído
   Instituição: Instituto Adamantina
+  
+- Bootcamp Dev Fullstack Philips - 2022 - Concluído
+  Instituição: DIO - Digital Inovation One
 
 ## Conhecimentos técnicos
 
@@ -68,7 +67,8 @@ Responsável: Clederson Ferreira Silva
 - JavaScript
 - TypeScript
 - Java
-- C++
+- Spring Framework
+- Spring Boot
 - Angular2+
 - Angular Material
 - Python
